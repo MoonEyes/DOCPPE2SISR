@@ -1,0 +1,3 @@
+auth_group.id,auth_group.role,auth_group.description
+1,administrateur,
+2,Guest,Utilisateur sans droit
