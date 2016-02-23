@@ -1,0 +1,7 @@
+auth_user.id,auth_user.first_name,auth_user.last_name,auth_user.email,auth_user.password,auth_user.registration_key,auth_user.reset_password_key,auth_user.registration_id
+1,Didier,Billot,didier.billot@m2l.fr,"pbkdf2(1000,20,sha512)$a1374a7299610532$259fc46474b31f4daff20231020bedce6c4bcb7c",,,
+2,Thomas,Caldi,thomas.caldi@m2l.fr,"pbkdf2(1000,20,sha512)$bfef3179bc7afa10$6d77a9ef94ad79fda8d58648417db21ac0e0f877",,,
+3,Gregoire,Lamoine,lamoine.gregoire@m2l.fr,"pbkdf2(1000,20,sha512)$b7ee796ac1f15ef7$17db5d857ea94755cda0fbef4eade8eab0ac4d7b",,,
+4,Lucille,Berbier,lucille.berbier@aikido-lorraine.fr,"pbkdf2(1000,20,sha512)$a6d3df91ae9830e9$a307e6e82a2574214d7cb5c71ee6b4d2e42935d6",,,
+6,Titi,Toto,titi@mail.com,"pbkdf2(1000,20,sha512)$b17ce42e0a01b0d9$561e90e245d151be82043e4905e2b6b1549dedbc",,,
+7,Toto,Titi,toto@mail.com,"pbkdf2(1000,20,sha512)$bef88b0d86b11632$e43b70c3eebe20a9414a6e148124fa2749e5ca09",,,

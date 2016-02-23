@@ -1,0 +1,4 @@
+categorie.id,categorie.nom,categorie.admin_email,categorie.heureOuverture,categorie.heureOuvertureMinutes,categorie.heureFermeture,categorie.heureFermetureMinutes
+3,Salle de réception,chemin.lorette@lorraine-sport.net,7,0,23,0
+4,Salle de réunion,chemin.lorette@lorraine-sport.net,7,0,19,0
+5,Salle multimédia,chemin.lorette@lorraine-sport.net,7,0,19,0

@@ -1,0 +1,1 @@
+auth_cas.id,auth_cas.user_id,auth_cas.created_on,auth_cas.service,auth_cas.ticket,auth_cas.renew
