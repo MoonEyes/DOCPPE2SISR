@@ -1,0 +1,15 @@
+Passer sous PhpMyAdmin avec Web2Py
+
+Pour commencer, ne pas oublier de sauvegarder (exporter au format .csv pour SQLite) vos tables et données.
+
+Pour adapter la base de données de SQLite à PhpMyAdmin, nous avons modifié dans le fichier "\private\appconfig.ini" la variable "uri" pour qu'elle contienne:
+
+uri = mysql://<LOGIN>:<PASSWORD>@<IPDB>/<DBNAME>
+(ne pas confondre l'ip du serveur et l'ip de la base)
+
+Enfin, vous pouvez vous rendre sur "<IP>:<PORT>/phpmyadmin"
+(ne pas oublier le port)
+
+Enfin, vous pouvez réimporter vos données dans l'onglet "Importer" puis en uploadant vos fichiers, en choisissant le bon format.
+Les tables seront déjà présentes dans la base donc vous devrez retirer les instructions "DROP TABLE..." si elles sont présentes dans vos fichiers.
+Il peut arriver que la première ligne de vos fichiers indique le nom des colonnes (en .csv), vous n'aurez qu'à ignorer la première ligne à l'importation.
